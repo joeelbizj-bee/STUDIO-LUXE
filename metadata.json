@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Portrait Studio",
+  "description": "Transform your photos into high-end minimalist luxury portraits featuring custom fashion and lighting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
